@@ -15,3 +15,20 @@ C:\Users\96343\Desktop\ProEventos\back\src\ProEventos.Application\obj\Debug\net6
 C:\Users\96343\Desktop\ProEventos\back\src\ProEventos.Application\obj\Debug\net6.0\refint\ProEventos.Application.dll
 C:\Users\96343\Desktop\ProEventos\back\src\ProEventos.Application\obj\Debug\net6.0\ProEventos.Application.pdb
 C:\Users\96343\Desktop\ProEventos\back\src\ProEventos.Application\obj\Debug\net6.0\ref\ProEventos.Application.dll
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\Full-Stack_com_NET_Web_API_Angular_EF_Core-2022\ProEventos\back\src\ProEventos.Application\bin\Debug\net6.0\ProEventos.Application.deps.json
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\Full-Stack_com_NET_Web_API_Angular_EF_Core-2022\ProEventos\back\src\ProEventos.Application\bin\Debug\net6.0\ProEventos.Application.dll
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\Full-Stack_com_NET_Web_API_Angular_EF_Core-2022\ProEventos\back\src\ProEventos.Application\bin\Debug\net6.0\ProEventos.Application.pdb
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\Full-Stack_com_NET_Web_API_Angular_EF_Core-2022\ProEventos\back\src\ProEventos.Application\bin\Debug\net6.0\ProEventos.Domain.dll
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\Full-Stack_com_NET_Web_API_Angular_EF_Core-2022\ProEventos\back\src\ProEventos.Application\bin\Debug\net6.0\ProEventos.Persistence.dll
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\Full-Stack_com_NET_Web_API_Angular_EF_Core-2022\ProEventos\back\src\ProEventos.Application\bin\Debug\net6.0\ProEventos.Domain.pdb
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\Full-Stack_com_NET_Web_API_Angular_EF_Core-2022\ProEventos\back\src\ProEventos.Application\bin\Debug\net6.0\ProEventos.Persistence.pdb
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\Full-Stack_com_NET_Web_API_Angular_EF_Core-2022\ProEventos\back\src\ProEventos.Application\obj\Debug\net6.0\ProEventos.Application.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\Full-Stack_com_NET_Web_API_Angular_EF_Core-2022\ProEventos\back\src\ProEventos.Application\obj\Debug\net6.0\ProEventos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\Full-Stack_com_NET_Web_API_Angular_EF_Core-2022\ProEventos\back\src\ProEventos.Application\obj\Debug\net6.0\ProEventos.Application.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\Full-Stack_com_NET_Web_API_Angular_EF_Core-2022\ProEventos\back\src\ProEventos.Application\obj\Debug\net6.0\ProEventos.Application.AssemblyInfo.cs
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\Full-Stack_com_NET_Web_API_Angular_EF_Core-2022\ProEventos\back\src\ProEventos.Application\obj\Debug\net6.0\ProEventos.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\Full-Stack_com_NET_Web_API_Angular_EF_Core-2022\ProEventos\back\src\ProEventos.Application\obj\Debug\net6.0\ProEventos.Application.csproj.CopyComplete
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\Full-Stack_com_NET_Web_API_Angular_EF_Core-2022\ProEventos\back\src\ProEventos.Application\obj\Debug\net6.0\ProEventos.Application.dll
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\Full-Stack_com_NET_Web_API_Angular_EF_Core-2022\ProEventos\back\src\ProEventos.Application\obj\Debug\net6.0\refint\ProEventos.Application.dll
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\Full-Stack_com_NET_Web_API_Angular_EF_Core-2022\ProEventos\back\src\ProEventos.Application\obj\Debug\net6.0\ProEventos.Application.pdb
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\Full-Stack_com_NET_Web_API_Angular_EF_Core-2022\ProEventos\back\src\ProEventos.Application\obj\Debug\net6.0\ref\ProEventos.Application.dll
