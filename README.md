@@ -39,8 +39,8 @@ Com essa estrutura e tecnologias utilizadas, o projeto "ProEventos" é capaz de 
 
 
 ## Modelagem do banco de dados
-
-![imobiliaria_modelagem drawio](https://user-images.githubusercontent.com/99483009/227316589-15d2a102-364d-4566-9bde-23f5633ed2f1.png)
+  
+![ProEventos drawio](https://github.com/Cristian-ferre/ProEventos/assets/99483009/ccbed2fc-3d1f-4e21-9bb3-82013d216d19)
 
 
 
