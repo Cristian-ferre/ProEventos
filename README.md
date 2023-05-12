@@ -1,6 +1,6 @@
 # ProEventos
 
-O projeto "ProEventos" é um aplicativo de CRUD em camadas desenvolvido em C#, que utiliza o Entity Framework Core como ORM para interagir com um banco de dados SQL Server. O objetivo do aplicativo é gerenciar eventos, permitindo a criação, leitura, atualização e exclusão de registros relacionados a eventos.
+O projeto "ProEventos" é um aplicativo de CRUD em camadas desenvolvido em C#, que utiliza o Entity Framework Core como ORM para interagir com um banco de dados SQL Server. O objetivo do aplicativo é gerenciar eventos, permitindo a criação, leitura, atualização e exclusão de registros relacionados a eventos. Foi Também desenvolvida utilizando o conceito de injeção de dependência, o que contribui para a modularidade e flexibilidade do código.
 
 A aplicação "ProEventos" começou com a versão 6 do .NET, mas foi atualizada para a versão 7 do .NET. Durante o desenvolvimento, a pasta "Startup" foi utilizada para explorar conceitos de aplicações mais antigas.
 
